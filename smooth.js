@@ -1,4 +1,3 @@
-<script>
 $(document).ready(function(){
     // Add smooth scrolling to all links
     $(&quot;a&quot;).on(&#39;click&#39;, function(event) {
@@ -23,4 +22,3 @@ $(document).ready(function(){
       } // End if
     });
   });
-</script>
